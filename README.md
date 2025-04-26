@@ -13,7 +13,7 @@ This project is a **Streamlit** web application for analyzing and visualizing he
   - Cholesterol levels across Chest Pain Types.
   - Count plot of Chest Pain Types.
   - Oldpeak vs ST Slope analysis.
-- User-friendly, real-time visual dashboard.
+- User-friendly, visual dashboard.
 
 ## Technologies Used
 - Python 3

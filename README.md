@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a **Streamlit** web application for analyzing and visualizing heart disease data. It provides interactive charts to explore the relationship between clinical attributes like age, cholesterol, and blood pressure with heart disease outcomes. Built using **Plotly Express** for rich visualizations and **Pandas** for data handling.
+The Dataset has been taken from kaggle : [Heart.csv](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 ## Features
 - Sidebar filter to select an age range.

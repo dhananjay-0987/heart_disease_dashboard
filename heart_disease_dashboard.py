@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load the dataset
-data_path = 'heart.csv'  # Update with the path to your file if different
+data_path = 'heart_disease.csv'  # Update with the path to your file if different
 df = pd.read_csv(data_path)
 # Title of the dashboard
 st.title("Heart Disease Analysis Dashboard")
